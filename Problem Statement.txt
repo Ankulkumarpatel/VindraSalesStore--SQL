@@ -1,0 +1,5 @@
+Calculating total order count, total revenue, and total product quantity.
+Analyzing sales performance by gender and age group.
+Assessing monthly sales revenue to identify seasonal patterns.
+Analyzing the distribution of orders across different statuses and channels.
+Identifying top-selling product categories, sizes, and geographic regions.
